@@ -60,11 +60,12 @@
         <mark key="^" line="0" column="2" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/paidsetup/test/paidsetup/core_test.clj" timestamp="1498918484509">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="13" column="14" />
+      <file name="$USER_HOME$/ws/paidsetup/test/paidsetup/core_test.clj" timestamp="1498920061801">
+        <mark key="'" line="14" column="10" />
+        <mark key="[" line="11" column="106" />
+        <mark key="]" line="11" column="106" />
+        <mark key="." line="11" column="106" />
+        <mark key="^" line="11" column="107" />
       </file>
       <file name="/dummy.sql" timestamp="1498895220338">
         <mark key="[" line="0" column="0" />
@@ -201,46 +202,47 @@
       <jump line="55" column="0" filename="$USER_HOME$/ws/bdcbackend/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/ws/bdcbackend/index.js" />
       <jump line="15" column="2" filename="$USER_HOME$/ws/bdcbackend/index.js" />
+      <jump line="14" column="10" filename="$USER_HOME$/ws/paidsetup/test/paidsetup/core_test.clj" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIHR3by10aW1lcyAoKQo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>lodash</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJwcmVjb21taXQiOiAibnBtIHJ1biBsaW50Igo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgKHdpdGgtb2ZmbGluZS1jb250b2xsZXIgOmRlcGxveWxtZW50IChydW4tc2NlbmFyaW8gc2NlbmFyaW8pKSA9PiAoZW5kLXN0YXRlIGV4cGVjdGVkLXN0YXRlKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIHR3by10aW1lcyAoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAoLT4gc3RhdGUgbmlsKSkK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgKQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAobGV0IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgKHJ1bi1zY25hcmlvCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgKSkpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgKGZhY3QgInNpdGVwb2QgcmVzb3VyY2UgY3JlYXRlcyBhIGRlcGxveW1lbnQiCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>[:do :create :sitepod]</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgKGZhY3QgIm5hbWUgY29uZmxpY3QgaXMgYXBpc2VydmVyIHRlc3RpbmciKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
