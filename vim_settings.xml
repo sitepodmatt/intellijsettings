@@ -35,14 +35,6 @@
         <mark key="^" line="84" column="5" />
         <mark key="." line="84" column="5" />
       </file>
-      <file name="$USER_HOME$/ws/paidsetup/src/paidsetup/core.clj" timestamp="1498886483724">
-        <mark key="a" line="3" column="3" />
-        <mark key="'" line="5" column="6" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="2" column="6" />
-      </file>
       <file name="$USER_HOME$/ws/paidsetup/project.clj" timestamp="1498884382486">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -55,28 +47,28 @@
       <file name="/JavaScript Console" timestamp="1498891802637">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/REPL.clj" timestamp="1498886427352">
+      <file name="/REPL.clj" timestamp="1498898666373">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="2" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/paidsetup/test/paidsetup/core_test.clj" timestamp="1498886488779">
-        <mark key="[" line="6" column="27" />
-        <mark key="]" line="6" column="28" />
-        <mark key="." line="6" column="28" />
-        <mark key="^" line="6" column="27" />
+      <file name="$USER_HOME$/ws/paidsetup/test/paidsetup/core_test.clj" timestamp="1498899316164">
+        <mark key="[" line="8" column="67" />
+        <mark key="]" line="8" column="66" />
+        <mark key="." line="8" column="66" />
+        <mark key="^" line="8" column="66" />
       </file>
       <file name="/dummy.sql" timestamp="1498895220338">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/paidsetup/NOTES.md" timestamp="1498898433569">
-        <mark key="[" line="8" column="12" />
-        <mark key="]" line="4" column="22" />
-        <mark key="^" line="4" column="22" />
-        <mark key="." line="4" column="22" />
+      <file name="$USER_HOME$/ws/paidsetup/NOTES.md" timestamp="1498898473615">
+        <mark key="[" line="12" column="14" />
+        <mark key="]" line="12" column="67" />
+        <mark key="^" line="12" column="67" />
+        <mark key="." line="12" column="67" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498893848438">
+      <file name="/Dummy.txt" timestamp="1498898650129">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -107,7 +99,14 @@
         <mark key="^" line="1" column="26" />
         <mark key="." line="1" column="23" />
       </file>
-      <file name="/Dummy.clj" timestamp="1498885944956">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.clj" timestamp="1498899844716">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="6" column="7" />
+        <mark key="]" line="6" column="7" />
+        <mark key="^" line="6" column="7" />
+        <mark key="." line="6" column="7" />
+      </file>
+      <file name="/Dummy.clj" timestamp="1498899731315">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="module.js" timestamp="1497522488238">
@@ -180,13 +179,14 @@
       <jump line="424" column="59" filename="$USER_HOME$/ws/bdcbackend/package-lock.json" />
       <jump line="1080" column="5" filename="$USER_HOME$/ws/bdcbackend/package-lock.json" />
       <jump line="0" column="0" filename="/1651ba8c/0e42177b-967b-4e8f-8101-f1d0c603018f/database/bdcnew/schema/public/routine/log_change.().sql" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.clj" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">YWtzZAo=</text>
+      <register name="&quot;" type="4">
+        <text>println &quot;Natt&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>println &quot;Natt&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>lodash</text>
@@ -195,31 +195,33 @@
         <text encoding="base64">ICAgICJwcmVjb21taXQiOiAibnBtIHJ1biBsaW50Igo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YWtzZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QWxsIGVudAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgKFt2ZXJpZnkgc3RhdGVdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgW10K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dGFza05hbWVzWzVdOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJzdHlsdXMiOiAiIgo=</text>
+        <text encoding="base64">ICAgICAgIChsZXQgW3NjZW5hcmlvIChhcy1zY2VuYXJpbyAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyMjCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PT0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>{
+                       k
+                       }</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -265,7 +267,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed P</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
