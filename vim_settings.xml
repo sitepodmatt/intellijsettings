@@ -70,11 +70,11 @@
       <file name="/dummy.sql" timestamp="1498895220338">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/paidsetup/NOTES.md" timestamp="1498888334708">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="8" column="0" />
+      <file name="$USER_HOME$/ws/paidsetup/NOTES.md" timestamp="1498898433569">
+        <mark key="[" line="8" column="12" />
+        <mark key="]" line="4" column="22" />
+        <mark key="^" line="4" column="22" />
+        <mark key="." line="4" column="22" />
       </file>
       <file name="/Dummy.txt" timestamp="1498893848438">
         <mark key="[" line="0" column="0" />
@@ -183,7 +183,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YWtzZAo=</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -195,31 +195,31 @@
         <text encoding="base64">ICAgICJwcmVjb21taXQiOiAibnBtIHJ1biBsaW50Igo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YWtzZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QWxsIGVudAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dGFza05hbWVzWzVdOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICJzdHlsdXMiOiAiIgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">IyMjCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">PT0K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">dGFza05hbWVzWzVdOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICJzdHlsdXMiOiAiIgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">IyMjCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">PT09Cg==</text>
+        <text encoding="base64">PT0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
