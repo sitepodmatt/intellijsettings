@@ -1,0 +1,315 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/ws/bdcbackend/source/magento.js" timestamp="1498890912025">
+        <mark key="'" line="165" column="0" />
+        <mark key="[" line="126" column="25" />
+        <mark key="]" line="126" column="25" />
+        <mark key="^" line="126" column="25" />
+        <mark key="." line="126" column="25" />
+      </file>
+      <file name="$USER_HOME$/ws/bdcbackend/lib/dev_utils.js" timestamp="1498892421746">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="13" column="19" />
+        <mark key="]" line="14" column="3" />
+        <mark key="." line="14" column="3" />
+        <mark key="^" line="14" column="3" />
+      </file>
+      <file name="$USER_HOME$/ws/bdcbackend/dest/ebay.js" timestamp="1498119245220">
+        <mark key="'" line="224" column="10" />
+        <mark key="[" line="15" column="44" />
+        <mark key="]" line="15" column="44" />
+        <mark key="^" line="15" column="44" />
+        <mark key="." line="15" column="44" />
+      </file>
+      <file name="/1651ba8c/0e42177b-967b-4e8f-8101-f1d0c603018f/database/bdcnew/schema/public/routine/log_change.().sql" timestamp="1498894154781">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="6" column="21" />
+      </file>
+      <file name="$USER_HOME$/ws/bdcbackend/package-lock.json" timestamp="1498893493781">
+        <mark key="'" line="1080" column="5" />
+        <mark key="[" line="84" column="101" />
+        <mark key="]" line="84" column="5" />
+        <mark key="^" line="84" column="5" />
+        <mark key="." line="84" column="5" />
+      </file>
+      <file name="$USER_HOME$/ws/paidsetup/src/paidsetup/core.clj" timestamp="1498886483724">
+        <mark key="a" line="3" column="3" />
+        <mark key="'" line="5" column="6" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="2" column="6" />
+      </file>
+      <file name="$USER_HOME$/ws/paidsetup/project.clj" timestamp="1498884382486">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="6" column="52" />
+      </file>
+      <file name="/a.sql" timestamp="1498894016568">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1498891802637">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/REPL.clj" timestamp="1498886427352">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="2" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/ws/paidsetup/test/paidsetup/core_test.clj" timestamp="1498886488779">
+        <mark key="[" line="6" column="27" />
+        <mark key="]" line="6" column="28" />
+        <mark key="." line="6" column="28" />
+        <mark key="^" line="6" column="27" />
+      </file>
+      <file name="/dummy.sql" timestamp="1498895220338">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/ws/paidsetup/NOTES.md" timestamp="1498888334708">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1498893848438">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/ws/bdcbackend/README.md" timestamp="1498892914474">
+        <mark key="'" line="0" column="0" />
+        <mark key="j" line="10" column="35" />
+        <mark key="[" line="10" column="24" />
+        <mark key="]" line="10" column="35" />
+        <mark key="." line="10" column="35" />
+        <mark key="^" line="10" column="35" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.clj" timestamp="1498840537466">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="8" />
+      </file>
+      <file name="$USER_HOME$/ws/bdcbackend/index.js" timestamp="1498897057677">
+        <mark key="'" line="9" column="2" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/ws/paidsetup/src/user.clj" timestamp="1498884484067">
+        <mark key="[" line="1" column="23" />
+        <mark key="]" line="1" column="23" />
+        <mark key="^" line="1" column="26" />
+        <mark key="." line="1" column="23" />
+      </file>
+      <file name="/Dummy.clj" timestamp="1498885944956">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="module.js" timestamp="1497522488238">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0e42177b-967b-4e8f-8101-f1d0c603018f/console.sql" timestamp="1498894030158">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/ws/bdcbackend/tasks/normalize_products.js" timestamp="1498891872793">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1497608013222">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/ws/bdcbackend/package.json" timestamp="1498894158334">
+        <mark key="[" line="24" column="24" />
+        <mark key="]" line="24" column="24" />
+        <mark key="." line="24" column="24" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="28" column="16" filename="$USER_HOME$/ws/bdcbackend/index.js" />
+      <jump line="10" column="0" filename="$USER_HOME$/ws/bdcbackend/index.js" />
+      <jump line="31" column="16" filename="$USER_HOME$/ws/bdcbackend/index.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/ws/bdcbackend/tasks/normalize_products.js" />
+      <jump line="36" column="0" filename="$USER_HOME$/ws/bdcbackend/index.js" />
+      <jump line="7" column="0" filename="$USER_HOME$/ws/bdcbackend/index.js" />
+      <jump line="34" column="0" filename="$USER_HOME$/ws/bdcbackend/index.js" />
+      <jump line="8" column="0" filename="$USER_HOME$/ws/bdcbackend/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/test/app.js" />
+      <jump line="47" column="0" filename="$USER_HOME$/IdeaProjects/test/app.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/IdeaProjects/test/app.js" />
+      <jump line="185" column="0" filename="$USER_HOME$/ws/bdcbackend/tasks/normalize_products.js" />
+      <jump line="15" column="2" filename="$USER_HOME$/ws/bdcbackend/tasks/normalize_products.js" />
+      <jump line="37" column="12" filename="$USER_HOME$/ws/bdcbackend/tasks/normalize_products.js" />
+      <jump line="92" column="4" filename="$USER_HOME$/ws/bdcbackend/tasks/normalize_products.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/ws/bdcbackend/tasks/normalize_products.js" />
+      <jump line="1" column="7" filename="$USER_HOME$/ws/bdcbackend/lib/fs_async.js" />
+      <jump line="15" column="0" filename="$USER_HOME$/ws/bdcbackend/dest/ebay.js" />
+      <jump line="12" column="4" filename="$USER_HOME$/ws/bdcbackend/dest/ebay.js" />
+      <jump line="224" column="10" filename="$USER_HOME$/ws/bdcbackend/dest/ebay.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/sitepod/src/app.kt" />
+      <jump line="4" column="4" filename="$USER_HOME$/IdeaProjects/sitepod/src/app.kt" />
+      <jump line="5" column="4" filename="$USER_HOME$/IdeaProjects/sitepod/src/app.kt" />
+      <jump line="5" column="4" filename="$USER_HOME$/ws/paidsetup/src/paidsetup/core.clj" />
+      <jump line="4" column="9" filename="$USER_HOME$/ws/paidsetup/src/paidsetup/core.clj" />
+      <jump line="2" column="0" filename="$USER_HOME$/ws/paidsetup/src/paidsetup/core.clj" />
+      <jump line="1" column="0" filename="$USER_HOME$/ws/paidsetup/src/paidsetup/core.clj" />
+      <jump line="6" column="6" filename="$USER_HOME$/ws/paidsetup/src/paidsetup/core.clj" />
+      <jump line="125" column="10" filename="$USER_HOME$/ws/bdcbackend/source/magento.js" />
+      <jump line="124" column="12" filename="$USER_HOME$/ws/bdcbackend/source/magento.js" />
+      <jump line="103" column="4" filename="$USER_HOME$/ws/bdcbackend/source/magento.js" />
+      <jump line="104" column="4" filename="$USER_HOME$/ws/bdcbackend/source/magento.js" />
+      <jump line="100" column="4" filename="$USER_HOME$/ws/bdcbackend/source/magento.js" />
+      <jump line="162" column="2" filename="$USER_HOME$/ws/bdcbackend/source/magento.js" />
+      <jump line="165" column="0" filename="$USER_HOME$/ws/bdcbackend/source/magento.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/ws/bdcbackend/.eslintrc.json" />
+      <jump line="19" column="1" filename="$USER_HOME$/ws/bdcbackend/lib/dev_utils.js" />
+      <jump line="21" column="0" filename="$USER_HOME$/ws/bdcbackend/lib/dev_utils.js" />
+      <jump line="16" column="0" filename="$USER_HOME$/ws/bdcbackend/lib/dev_utils.js" />
+      <jump line="17" column="40" filename="$USER_HOME$/ws/bdcbackend/index.js" />
+      <jump line="9" column="2" filename="$USER_HOME$/ws/bdcbackend/index.js" />
+      <jump line="39" column="2" filename="$USER_HOME$/ws/bdcbackend/README.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/ws/bdcbackend/README.md" />
+      <jump line="81" column="5" filename="$USER_HOME$/ws/bdcbackend/package-lock.json" />
+      <jump line="422" column="9" filename="$USER_HOME$/ws/bdcbackend/package-lock.json" />
+      <jump line="424" column="59" filename="$USER_HOME$/ws/bdcbackend/package-lock.json" />
+      <jump line="1080" column="5" filename="$USER_HOME$/ws/bdcbackend/package-lock.json" />
+      <jump line="0" column="0" filename="/1651ba8c/0e42177b-967b-4e8f-8101-f1d0c603018f/database/bdcnew/schema/public/routine/log_change.().sql" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>,</text>
+      </register>
+      <register name="/" type="4">
+        <text>lodash</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICJwcmVjb21taXQiOiAibnBtIHJ1biBsaW50Igo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">dGFza05hbWVzWzVdOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICJzdHlsdXMiOiAiIgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">IyMjCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">PT0K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">PT09Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">PT09Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>lodash</last-search>
+      <last-offset />
+      <last-pattern>lodash</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>async</entry>
+        <entry>sMe</entry>
+        <entry>Me</entry>
+        <entry encoding="base64">XDxwcmludGxuXD4=</entry>
+        <entry encoding="base64">XDxtZWdhbWVudVdvcmthcm91bmRcPg==</entry>
+        <entry>lodash</entry>
+      </history-search>
+      <history-cmd>
+        <entry>/sMe</entry>
+        <entry>pwd</entry>
+        <entry>wa</entry>
+        <entry>:w</entry>
+        <entry>sp</entry>
+        <entry>W</entry>
+        <entry>bd</entry>
+        <entry>e package.json</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>

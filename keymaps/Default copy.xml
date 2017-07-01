@@ -1,0 +1,6 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="FullyExpandTreeNode">
+    <keyboard-shortcut first-keystroke="multiply" />
+    <keyboard-shortcut first-keystroke="shift 8" />
+  </action>
+</keymap>
