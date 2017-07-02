@@ -102,19 +102,19 @@
         <mark key="^" line="6" column="29" />
         <mark key="." line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/ws/kotlin-tennis-kata/src/test/kotlin/tenniskata/tests.kt" timestamp="1498973972989">
+      <file name="$USER_HOME$/ws/kotlin-tennis-kata/src/test/kotlin/tenniskata/tests.kt" timestamp="1498974145085">
         <mark key="'" line="5" column="17" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="5" column="17" />
+        <mark key="[" line="11" column="17" />
+        <mark key="]" line="11" column="18" />
+        <mark key="." line="11" column="18" />
+        <mark key="^" line="4" column="22" />
       </file>
-      <file name="$USER_HOME$/ws/kotlin-tennis-kata/src/main/kotlin/tenniskata/kata.kt" timestamp="1498973683469">
+      <file name="$USER_HOME$/ws/kotlin-tennis-kata/src/main/kotlin/tenniskata/kata.kt" timestamp="1498974118123">
         <mark key="'" line="56" column="0" />
-        <mark key="[" line="6" column="13" />
-        <mark key="]" line="6" column="14" />
-        <mark key="." line="6" column="14" />
-        <mark key="^" line="6" column="14" />
+        <mark key="[" line="22" column="36" />
+        <mark key="]" line="22" column="39" />
+        <mark key="." line="22" column="39" />
+        <mark key="^" line="22" column="39" />
       </file>
       <file name="$USER_HOME$/ws/sitepodclj/test/sitepodclj/core_test.clj" timestamp="1498913685403">
         <mark key="[" line="10" column="16" />
@@ -176,11 +176,11 @@
       <jump line="5" column="17" filename="$USER_HOME$/ws/kotlin-tennis-kata/src/test/kotlin/tenniskata/tests.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dgo=</text>
+      <register name="&quot;" type="4">
+        <text>Fifteen</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;What is true is true&quot;</text>
+        <text>Fifteen</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdWJqXD4=</text>
@@ -234,8 +234,8 @@
         <entry>e!</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>W</entry>
-        <entry>wa</entry>
         <entry>&quot;w</entry>
+        <entry>wa</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
