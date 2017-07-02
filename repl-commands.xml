@@ -1,5 +1,0 @@
-<application>
-  <component name="ReplCommandManager">
-    <repl-command name="Autotest" executionType="EXPRESSION" commandText="(autotest)" executeBefore="NONE" executionNs="EXPLICIT_NS" inNamespace="user" />
-  </component>
-</application>
