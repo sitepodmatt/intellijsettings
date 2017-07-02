@@ -102,19 +102,18 @@
         <mark key="^" line="6" column="29" />
         <mark key="." line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/ws/kotlin-tennis-kata/src/test/kotlin/tenniskata/tests.kt" timestamp="1498974145085">
-        <mark key="'" line="5" column="17" />
-        <mark key="[" line="11" column="17" />
-        <mark key="]" line="11" column="18" />
-        <mark key="." line="11" column="18" />
-        <mark key="^" line="4" column="22" />
+      <file name="$USER_HOME$/ws/kotlin-tennis-kata/src/test/kotlin/tenniskata/tests.kt" timestamp="1498977906990">
+        <mark key="'" line="4" column="17" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/kotlin-tennis-kata/src/main/kotlin/tenniskata/kata.kt" timestamp="1498974118123">
-        <mark key="'" line="56" column="0" />
-        <mark key="[" line="22" column="36" />
-        <mark key="]" line="22" column="39" />
-        <mark key="." line="22" column="39" />
-        <mark key="^" line="22" column="39" />
+      <file name="$USER_HOME$/ws/kotlin-tennis-kata/src/main/kotlin/tenniskata/kata.kt" timestamp="1498981222249">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="29" column="32" />
+        <mark key="]" line="19" column="9" />
+        <mark key="^" line="19" column="8" />
+        <mark key="." line="19" column="9" />
       </file>
       <file name="$USER_HOME$/ws/sitepodclj/test/sitepodclj/core_test.clj" timestamp="1498913685403">
         <mark key="[" line="10" column="16" />
@@ -174,61 +173,65 @@
       <jump line="25" column="38" filename="$USER_HOME$/ws/spcont/src/spcont/system.clj" />
       <jump line="56" column="0" filename="$USER_HOME$/ws/kotlin-tennis-kata/src/main/kotlin/tenniskata/kata.kt" />
       <jump line="5" column="17" filename="$USER_HOME$/ws/kotlin-tennis-kata/src/test/kotlin/tenniskata/tests.kt" />
+      <jump line="12" column="0" filename="$USER_HOME$/ws/kotlin-tennis-kata/src/main/kotlin/tenniskata/kata.kt" />
+      <jump line="9" column="27" filename="$USER_HOME$/ws/kotlin-tennis-kata/src/main/kotlin/tenniskata/kata.kt" />
+      <jump line="2" column="0" filename="$USER_HOME$/ws/kotlin-tennis-kata/src/main/kotlin/tenniskata/kata.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Fifteen</text>
+        <text encoding="base64">b3BlbiA=</text>
       </register>
       <register name="-" type="4">
-        <text>Fifteen</text>
+        <text encoding="base64">b3BlbiA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdWJqXD4=</text>
+        <text encoding="base64">XDxjbGFzc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAoaW5mb3JtZXIvb24tdXBkYXRlIHNpdGVwb2QtdXBkYXRlZCkK</text>
+        <text encoding="base64">ICAgIHByaW50bG4oIiBpcyAke3NpdGVwb2QxLmNvbmRpdGlvbnNbMF0uc3RhdHVzfSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4oIiRzaXRlcG9kMSIpCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAoaW5mb3JtZXIvb24tdXBkYXRlIGkgc2l0ZXBvZC11cGRhdGVkKQo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">KGNvbmRpdGlvbnMgOiBMaXN0PFNpdGVwb2RDb25kaXRpb24+ID0gbGlzdE9mKCkp</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHByaW50bG4oIlNjZW5hcmlvOiBQbGF5ZXIgQSBnZXQgYWxsIHRoZSBwb2ludHMiKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgKGluZm9ybWVyL3N0YXJ0IAo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW50ZXJmYWNlIEludGZSZXNvdXJjZSB7CiAgICB2YWwgY29uZGl0aW9ucyA6IExpc3Q8UmVzb3VyY2VDb25kaXRpb24+Cn0K</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIChwcmludGxuICI7OyBTdGFydGluZyBkYXRhYmFzZSIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDs7IHN0YXRlLgo=</text>
+        <text encoding="base64">Y2xhc3MgU2FuZUNvbmRpdGlvbiA6IFJlc291cmNlQ29uZGl0aW9uKCJzYW5lIikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzdWJqXD4=</last-search>
+      <last-search encoding="base64">XDxjbGFzc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdWJqXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjbGFzc1w+</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry encoding="base64">XDxzdWJqXD4=</entry>
+        <entry encoding="base64">XDxjbGFzc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>e!</entry>
@@ -236,6 +239,7 @@
         <entry>W</entry>
         <entry>&quot;w</entry>
         <entry>wa</entry>
+        <entry>reg</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
