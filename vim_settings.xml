@@ -90,6 +90,9 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
+      <file name="/fragment.kt" timestamp="1498973661872">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/ClojureDebugFile.clj" timestamp="1498811405083">
         <mark key="[" line="0" column="0" />
       </file>
@@ -98,6 +101,20 @@
         <mark key="]" line="3" column="19" />
         <mark key="^" line="6" column="29" />
         <mark key="." line="3" column="19" />
+      </file>
+      <file name="$USER_HOME$/ws/kotlin-tennis-kata/src/test/kotlin/tenniskata/tests.kt" timestamp="1498973972989">
+        <mark key="'" line="5" column="17" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="5" column="17" />
+      </file>
+      <file name="$USER_HOME$/ws/kotlin-tennis-kata/src/main/kotlin/tenniskata/kata.kt" timestamp="1498973683469">
+        <mark key="'" line="56" column="0" />
+        <mark key="[" line="6" column="13" />
+        <mark key="]" line="6" column="14" />
+        <mark key="." line="6" column="14" />
+        <mark key="^" line="6" column="14" />
       </file>
       <file name="$USER_HOME$/ws/sitepodclj/test/sitepodclj/core_test.clj" timestamp="1498913685403">
         <mark key="[" line="10" column="16" />
@@ -155,13 +172,15 @@
       <jump line="12" column="0" filename="$USER_HOME$/ws/sitepodclj/test/sitepodclj/core_test.clj" />
       <jump line="15" column="0" filename="$USER_HOME$/ws/spcont/test/spcont/core_test.clj" />
       <jump line="25" column="38" filename="$USER_HOME$/ws/spcont/src/spcont/system.clj" />
+      <jump line="56" column="0" filename="$USER_HOME$/ws/kotlin-tennis-kata/src/main/kotlin/tenniskata/kata.kt" />
+      <jump line="5" column="17" filename="$USER_HOME$/ws/kotlin-tennis-kata/src/test/kotlin/tenniskata/tests.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAoaW5mb3JtZXIvb24tdXBkYXRlIGkgc2l0ZXBvZC11cGRhdGVkKQo=</text>
+        <text encoding="base64">dgo=</text>
       </register>
       <register name="-" type="4">
-        <text>deleted</text>
+        <text>&quot;What is true is true&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdWJqXD4=</text>
@@ -170,31 +189,31 @@
         <text encoding="base64">ICAoaW5mb3JtZXIvb24tdXBkYXRlIHNpdGVwb2QtdXBkYXRlZCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAoaW5mb3JtZXIvb24tdXBkYXRlIGkgc2l0ZXBvZC11cGRhdGVkKQo=</text>
+        <text encoding="base64">dgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAoaW5mb3JtZXIvb24tdXBkYXRlIGkgc2l0ZXBvZC11cGRhdGVkKQo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgKGluZm9ybWVyL3N0YXJ0IAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIChwcmludGxuICI7OyBTdGFydGluZyBkYXRhYmFzZSIpCg==</text>
+        <text encoding="base64">ICAgICAgKGluZm9ybWVyL3N0YXJ0IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDs7IHN0YXRlLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDs7IGRhdGFiYXNlLCBjcmVhdGUgdGhyZWFkIHBvb2xzLCBvciBpbml0aWFsaXplIHNoYXJlZAo=</text>
+        <text encoding="base64">ICAgIChwcmludGxuICI7OyBTdGFydGluZyBkYXRhYmFzZSIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDs7IGFuZCBzdGFydCBpdCBydW5uaW5nLiBGb3IgZXhhbXBsZSwgY29ubmVjdCB0byBhCg==</text>
+        <text encoding="base64">ICAgIDs7IHN0YXRlLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -247,7 +266,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
