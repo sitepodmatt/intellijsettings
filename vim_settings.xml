@@ -82,7 +82,7 @@
       <file name="$USER_HOME$/ws/sitepod/.gitignore" timestamp="1498817794871">
         <mark key="[" line="10" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498990033489">
+      <file name="/Dummy.txt" timestamp="1499051329472">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/ws/kotlin-spek-sample/src/test/java/com/github/pnowy/spek/TaxRateCalculatorSpec.kt" timestamp="1498809299647">
@@ -108,12 +108,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/kotlin-tennis-kata/src/main/kotlin/tenniskata/kata.kt" timestamp="1499003265920">
+      <file name="$USER_HOME$/ws/kotlin-tennis-kata/src/main/kotlin/tenniskata/kata.kt" timestamp="1499051710235">
         <mark key="'" line="86" column="0" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="^" line="33" column="7" />
-        <mark key="." line="33" column="0" />
+        <mark key="[" line="22" column="1" />
+        <mark key="]" line="24" column="17" />
+        <mark key="^" line="24" column="17" />
+        <mark key="." line="24" column="17" />
       </file>
       <file name="$USER_HOME$/ws/sitepodclj/test/sitepodclj/core_test.clj" timestamp="1498913685403">
         <mark key="[" line="10" column="16" />
@@ -186,11 +186,11 @@
       <jump line="86" column="0" filename="$USER_HOME$/ws/kotlin-tennis-kata/src/main/kotlin/tenniskata/kata.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">bmV3IA==</text>
       </register>
       <register name="-" type="4">
-        <text>return</text>
+        <text encoding="base64">bmV3IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWxcPg==</text>
@@ -199,31 +199,31 @@
         <text encoding="base64">ICAgIHZhbCBuYW1lOiBTdHJpbmcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBvdmVydgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZGF0YSBjbGFzcyBTaXRlcG9kCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
