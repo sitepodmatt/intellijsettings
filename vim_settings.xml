@@ -3,35 +3,55 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/ws/spcont/src/spcont/controller_host.clj" timestamp="1498971627398">
-        <mark key="[" line="5" column="30" />
-        <mark key="]" line="5" column="30" />
-        <mark key="^" line="5" column="20" />
-        <mark key="." line="5" column="30" />
+      <file name="$USER_HOME$/ws/bdcbackend/lib/dev_utils.js" timestamp="1498892421746">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="13" column="19" />
+        <mark key="]" line="14" column="3" />
+        <mark key="." line="14" column="3" />
+        <mark key="^" line="14" column="3" />
       </file>
-      <file name="$USER_HOME$/ws/sitepod/src/sitepod/core.clj" timestamp="1498965441203">
-        <mark key="'" line="4" column="2" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/ws/mtest3/src/mtest3/core.clj" timestamp="1498811368925">
-        <mark key="[" line="7" column="31" />
-        <mark key="]" line="8" column="4" />
-        <mark key="." line="8" column="4" />
-        <mark key="^" line="8" column="4" />
-      </file>
-      <file name="$USER_HOME$/ws/sitepodclj/src/sitepodclj/config.clj" timestamp="1495443791567">
-        <mark key="[" line="0" column="2" />
-        <mark key="]" line="0" column="1" />
-        <mark key="." line="0" column="1" />
-        <mark key="^" line="0" column="1" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.clj" timestamp="1498969075933">
+      <file name="/File Header.txt.ft" timestamp="1499058565078">
+        <mark key="'" line="0" column="2" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="3" column="11" />
-        <mark key="^" line="2" column="3" />
-        <mark key="." line="2" column="3" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="2" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/ws/sitepodkt/src/domain/Conditions.kt" timestamp="1499058280437">
+        <mark key="[" line="7" column="1" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/ws/sitepodkt/src/sitepod/client/Informer.kt" timestamp="1499059736972">
+        <mark key="[" line="4" column="39" />
+        <mark key="]" line="4" column="41" />
+        <mark key="^" line="4" column="41" />
+        <mark key="." line="4" column="41" />
+      </file>
+      <file name="$USER_HOME$/ws/sitepodkt/src/domain/Kind.kt" timestamp="1499058644090">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="74" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/ws/sitepodkt/src/model/Base.kt" timestamp="1499058823880">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="15" />
+        <mark key="." line="0" column="15" />
+        <mark key="^" line="0" column="15" />
+      </file>
+      <file name="$USER_HOME$/ws/sitepodkt/src/model/Specs.kt" timestamp="1499059047863">
+        <mark key="[" line="11" column="4" />
+        <mark key="]" line="11" column="7" />
+        <mark key="^" line="11" column="7" />
+        <mark key="." line="11" column="7" />
+      </file>
+      <file name="$USER_HOME$/ws/bdcbackend/package-lock.json" timestamp="1498893493781">
+        <mark key="'" line="1080" column="5" />
+        <mark key="[" line="84" column="101" />
+        <mark key="]" line="84" column="5" />
+        <mark key="^" line="84" column="5" />
+        <mark key="." line="84" column="5" />
       </file>
       <file name="$USER_HOME$/ws/mtest3/test/mtest3/core_test.clj" timestamp="1498803899384">
         <mark key="[" line="7" column="28" />
@@ -45,22 +65,17 @@
         <mark key="^" line="1" column="22" />
         <mark key="." line="1" column="22" />
       </file>
-      <file name="$USER_HOME$/ws/sitepod/test/sitepod/core_test.clj" timestamp="1498828911036">
-        <mark key="[" line="5" column="17" />
-        <mark key="]" line="5" column="17" />
-        <mark key="." line="5" column="17" />
-        <mark key="^" line="5" column="17" />
-      </file>
       <file name="$USER_HOME$/ws/spcont/src/spcont/spcont/handlers/sitepod.clj" timestamp="1498972035431">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="^" line="5" column="39" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/REPL.clj" timestamp="1498968847878">
-        <mark key="[" line="0" column="30" />
-        <mark key="]" line="0" column="30" />
-        <mark key="." line="0" column="30" />
+      <file name="$USER_HOME$/ws/paidsetup/project.clj" timestamp="1498884382486">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="6" column="52" />
       </file>
       <file name="$USER_HOME$/ws/sitepodclj/src/sitepodclj/eg.clj" timestamp="1495445830739">
         <mark key="[" line="18" column="77" />
@@ -73,22 +88,17 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/helloworld/src/core/test.clj" timestamp="1495434686156">
-        <mark key="[" line="3" column="24" />
-        <mark key="]" line="3" column="25" />
-        <mark key="^" line="3" column="27" />
-        <mark key="." line="3" column="25" />
-      </file>
       <file name="$USER_HOME$/ws/sitepod/.gitignore" timestamp="1498817794871">
         <mark key="[" line="10" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498966625960">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/ws/paidsetup/NOTES.md" timestamp="1498898473615">
+        <mark key="[" line="12" column="14" />
+        <mark key="]" line="12" column="67" />
+        <mark key="^" line="12" column="67" />
+        <mark key="." line="12" column="67" />
       </file>
-      <file name="$USER_HOME$/ws/kotlin-spek-sample/src/test/java/com/github/pnowy/spek/TaxRateCalculatorSpec.kt" timestamp="1498809299647">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
+      <file name="/ActionScript File Header.txt.ft" timestamp="1499058538631">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.kt" timestamp="1498973661872">
         <mark key="[" line="0" column="0" />
@@ -96,24 +106,18 @@
       <file name="/ClojureDebugFile.clj" timestamp="1498811405083">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/mtest3/project.clj" timestamp="1498796201661">
-        <mark key="[" line="3" column="18" />
-        <mark key="]" line="3" column="19" />
-        <mark key="^" line="6" column="29" />
-        <mark key="." line="3" column="19" />
-      </file>
       <file name="$USER_HOME$/ws/kotlin-tennis-kata/src/test/kotlin/tenniskata/tests.kt" timestamp="1498977906990">
         <mark key="'" line="4" column="17" />
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/kotlin-tennis-kata/src/main/kotlin/tenniskata/kata.kt" timestamp="1498981222249">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="29" column="32" />
-        <mark key="]" line="19" column="9" />
-        <mark key="^" line="19" column="8" />
-        <mark key="." line="19" column="9" />
+      <file name="$USER_HOME$/ws/sitepodkt/src/model/Resource.kt" timestamp="1499058859988">
+        <mark key="'" line="3" column="15" />
+        <mark key="[" line="20" column="4" />
+        <mark key="]" line="20" column="11" />
+        <mark key="." line="20" column="11" />
+        <mark key="^" line="20" column="11" />
       </file>
       <file name="$USER_HOME$/ws/sitepodclj/test/sitepodclj/core_test.clj" timestamp="1498913685403">
         <mark key="[" line="10" column="16" />
@@ -134,12 +138,8 @@
         <mark key="." line="16" column="38" />
         <mark key="^" line="16" column="38" />
       </file>
-      <file name="$USER_HOME$/ws/sitepodclj/src/sitepodclj/core.clj" timestamp="1495436243533">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="6" column="5" />
-        <mark key="]" line="6" column="8" />
-        <mark key="." line="6" column="8" />
-        <mark key="^" line="6" column="8" />
+      <file name="/Dummy.clj" timestamp="1498899731315">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/ws/ktest/src/main.kt" timestamp="1495520611989">
         <mark key="[" line="5" column="0" />
@@ -151,14 +151,206 @@
         <mark key="." line="8" column="15" />
         <mark key="^" line="8" column="15" />
       </file>
-      <file name="/fragment.java" timestamp="1495520749793">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/ws/bdcbackend/package.json" timestamp="1498894158334">
+        <mark key="[" line="24" column="24" />
+        <mark key="]" line="24" column="24" />
+        <mark key="." line="24" column="24" />
       </file>
       <file name="$USER_HOME$/ws/kotlin2/test/AppSpek.kt" timestamp="1498805649250">
         <mark key="'" line="9" column="22" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="34" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/ws/bdcbackend/source/magento.js" timestamp="1498890912025">
+        <mark key="'" line="165" column="0" />
+        <mark key="[" line="126" column="25" />
+        <mark key="]" line="126" column="25" />
+        <mark key="^" line="126" column="25" />
+        <mark key="." line="126" column="25" />
+      </file>
+      <file name="$USER_HOME$/ws/sitepodkt/src/model/Conditions.kt" timestamp="1499058700915">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="6" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/ws/bdcbackend/dest/ebay.js" timestamp="1498119245220">
+        <mark key="'" line="224" column="10" />
+        <mark key="[" line="15" column="44" />
+        <mark key="]" line="15" column="44" />
+        <mark key="^" line="15" column="44" />
+        <mark key="." line="15" column="44" />
+      </file>
+      <file name="$USER_HOME$/ws/spcont/src/spcont/controller_host.clj" timestamp="1498971627398">
+        <mark key="[" line="5" column="30" />
+        <mark key="]" line="5" column="30" />
+        <mark key="^" line="5" column="20" />
+        <mark key="." line="5" column="30" />
+      </file>
+      <file name="$USER_HOME$/ws/sitepod/src/sitepod/core.clj" timestamp="1498965441203">
+        <mark key="'" line="4" column="2" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/ws/sitepodkt/src/App.kt" timestamp="1499059035416">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/ws/mtest3/src/mtest3/core.clj" timestamp="1498811368925">
+        <mark key="[" line="7" column="31" />
+        <mark key="]" line="8" column="4" />
+        <mark key="." line="8" column="4" />
+        <mark key="^" line="8" column="4" />
+      </file>
+      <file name="$USER_HOME$/ws/sitepodclj/src/sitepodclj/config.clj" timestamp="1495443791567">
+        <mark key="[" line="0" column="2" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="1" />
+        <mark key="^" line="0" column="1" />
+      </file>
+      <file name="$USER_HOME$/ws/sitepod/test/sitepod/core_test.clj" timestamp="1498828911036">
+        <mark key="[" line="5" column="17" />
+        <mark key="]" line="5" column="17" />
+        <mark key="." line="5" column="17" />
+        <mark key="^" line="5" column="17" />
+      </file>
+      <file name="/a.sql" timestamp="1498894016568">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1498891802637">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/REPL.clj" timestamp="1498968847878">
+        <mark key="[" line="0" column="30" />
+        <mark key="]" line="0" column="30" />
+        <mark key="^" line="0" column="2" />
+        <mark key="." line="0" column="30" />
+      </file>
+      <file name="$USER_HOME$/ws/paidsetup/test/paidsetup/core_test.clj" timestamp="1499009068688">
+        <mark key="'" line="14" column="10" />
+        <mark key="[" line="11" column="106" />
+        <mark key="]" line="11" column="106" />
+        <mark key="." line="11" column="106" />
+        <mark key="^" line="11" column="107" />
+      </file>
+      <file name="$USER_HOME$/ws/sitepodkt/src/model/Statuses.kt" timestamp="1499058977011">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="15" />
+        <mark key="." line="0" column="15" />
+        <mark key="^" line="0" column="15" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/helloworld/src/core/test.clj" timestamp="1495434686156">
+        <mark key="[" line="3" column="24" />
+        <mark key="]" line="3" column="25" />
+        <mark key="^" line="3" column="27" />
+        <mark key="." line="3" column="25" />
+      </file>
+      <file name="/HTML File.txt.ft" timestamp="1499058534725">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dummy.sql" timestamp="1498895220338">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1498966625960">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/ws/kotlin-spek-sample/src/test/java/com/github/pnowy/spek/TaxRateCalculatorSpec.kt" timestamp="1498809299647">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.clj" timestamp="1498969075933">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="11" />
+        <mark key="." line="2" column="3" />
+        <mark key="^" line="2" column="3" />
+      </file>
+      <file name="$USER_HOME$/ws/paidsetup/THOUGHTS.md" timestamp="1498916757302">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="1" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="0" column="1" />
+      </file>
+      <file name="$USER_HOME$/ws/bdcbackend/index.js" timestamp="1498916554152">
+        <mark key="'" line="15" column="2" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="17" />
+      </file>
+      <file name="$USER_HOME$/ws/sitepodkt/src/model/Kind.kt" timestamp="1499058893962">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="0" column="15" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/ws/paidsetup/src/user.clj" timestamp="1498884484067">
+        <mark key="[" line="1" column="23" />
+        <mark key="]" line="1" column="23" />
+        <mark key="^" line="1" column="26" />
+        <mark key="." line="1" column="23" />
+      </file>
+      <file name="$USER_HOME$/ws/mtest3/project.clj" timestamp="1498796201661">
+        <mark key="[" line="3" column="18" />
+        <mark key="]" line="3" column="19" />
+        <mark key="^" line="6" column="29" />
+        <mark key="." line="3" column="19" />
+      </file>
+      <file name="$USER_HOME$/ws/kotlin-tennis-kata/src/main/kotlin/tenniskata/kata.kt" timestamp="1498981222249">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="29" column="32" />
+        <mark key="]" line="19" column="9" />
+        <mark key="^" line="19" column="8" />
+        <mark key="." line="19" column="9" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.clj" timestamp="1498899844716">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="6" column="7" />
+        <mark key="]" line="6" column="7" />
+        <mark key="^" line="6" column="7" />
+        <mark key="." line="6" column="7" />
+      </file>
+      <file name="/Enum.txt.ft" timestamp="1499058538029">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Class.txt.ft" timestamp="1499058537345">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="module.js" timestamp="1497522488238">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/ws/sitepodclj/src/sitepodclj/core.clj" timestamp="1495436243533">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="6" column="5" />
+        <mark key="]" line="6" column="8" />
+        <mark key="." line="6" column="8" />
+        <mark key="^" line="6" column="8" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0e42177b-967b-4e8f-8101-f1d0c603018f/console.sql" timestamp="1498894030158">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/ws/bdcbackend/tasks/normalize_products.js" timestamp="1498891872793">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/ws/sitepodkt/src/model/Resources.kt" timestamp="1499058902207">
+        <mark key="[" line="2" column="74" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1499058830286">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/JSRegexp Fragment (index.js:27).regexp" timestamp="1498915818564">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -176,46 +368,58 @@
       <jump line="12" column="0" filename="$USER_HOME$/ws/kotlin-tennis-kata/src/main/kotlin/tenniskata/kata.kt" />
       <jump line="9" column="27" filename="$USER_HOME$/ws/kotlin-tennis-kata/src/main/kotlin/tenniskata/kata.kt" />
       <jump line="2" column="0" filename="$USER_HOME$/ws/kotlin-tennis-kata/src/main/kotlin/tenniskata/kata.kt" />
+      <jump line="68" column="1" filename="$USER_HOME$/ws/sitepodkt/src/App.kt" />
+      <jump line="3" column="20" filename="$USER_HOME$/ws/sitepodkt/src/App.kt" />
+      <jump line="24" column="0" filename="$USER_HOME$/ws/sitepodkt/src/App.kt" />
+      <jump line="47" column="25" filename="$USER_HOME$/ws/sitepodkt/src/App.kt" />
+      <jump line="2" column="2" filename="/File Header.txt.ft" />
+      <jump line="3" column="15" filename="$USER_HOME$/ws/sitepodkt/src/model/Resource.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">b3BlbiA=</text>
+        <text>if (this.started) false else run {
+            this.started = true
+            true
+        }</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">b3BlbiA=</text>
+        <text encoding="base64">dGhlbiA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGFzc1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oIiBpcyAke3NpdGVwb2QxLmNvbmRpdGlvbnNbMF0uc3RhdHVzfSIpCg==</text>
+      <register name="0" type="4">
+        <text>if (this.started) false else run {
+            this.started = true
+            true
+        }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oIiRzaXRlcG9kMSIpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">KGNvbmRpdGlvbnMgOiBMaXN0PFNpdGVwb2RDb25kaXRpb24+ID0gbGlzdE9mKCkp</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oIlNjZW5hcmlvOiBQbGF5ZXIgQSBnZXQgYWxsIHRoZSBwb2ludHMiKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyogICAgcHJpbnRsbigiJHthbHRTaXRlcG9kMS5uYW1lfSBpcyAke2FsdFNpdGVwb2QxLmNvbmRpdGlvbnNbMF0uc3RhdHVzfSIpKi8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW50ZXJmYWNlIEludGZSZXNvdXJjZSB7CiAgICB2YWwgY29uZGl0aW9ucyA6IExpc3Q8UmVzb3VyY2VDb25kaXRpb24+Cn0K</text>
+        <text encoding="base64">Ki8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2xhc3MgU2FuZUNvbmRpdGlvbiA6IFJlc291cmNlQ29uZGl0aW9uKCJzYW5lIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGlzdE9mKFNpdGVwb2RDb25kaXRpb24uUHJvdmlzaW9uZWQoQ29uZGl0aW9uU3RhdHVzLkZhbHNlKSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -230,16 +434,24 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdWJqXD4=</entry>
-        <entry encoding="base64">XDxjbGFzc1w+</entry>
+        <entry>async</entry>
+        <entry>sMe</entry>
+        <entry>Me</entry>
+        <entry encoding="base64">XDxwcmludGxuXD4=</entry>
+        <entry encoding="base64">XDxtZWdhbWVudVdvcmthcm91bmRcPg==</entry>
+        <entry>lodash</entry>
       </history-search>
       <history-cmd>
-        <entry>e!</entry>
-        <entry>source ~/.ideavimrc</entry>
-        <entry>W</entry>
-        <entry>&quot;w</entry>
+        <entry>/sMe</entry>
+        <entry>pwd</entry>
         <entry>wa</entry>
-        <entry>reg</entry>
+        <entry>:w</entry>
+        <entry>W</entry>
+        <entry>bd</entry>
+        <entry>e package.json</entry>
+        <entry>sp</entry>
+        <entry>e THOUGHTS.md</entry>
+        <entry>new THOUGHTS.md</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -247,52 +459,67 @@
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed S</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed P</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed R</text>
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed O</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed G</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed A</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed W</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed D</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed F</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed E</text>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed X</text>
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed T</text>
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
