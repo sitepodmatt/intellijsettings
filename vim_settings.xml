@@ -23,7 +23,7 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/sitepodkt/src/sitepod/client/Informer.kt" timestamp="1499059736972">
+      <file name="$USER_HOME$/ws/sitepodkt/src/sitepod/client/Informer.kt" timestamp="1499060642484">
         <mark key="[" line="4" column="39" />
         <mark key="]" line="4" column="41" />
         <mark key="^" line="4" column="41" />
@@ -83,6 +83,12 @@
         <mark key="." line="19" column="7" />
         <mark key="^" line="19" column="7" />
       </file>
+      <file name="$USER_HOME$/ws/sitepodkt/TESTING.md" timestamp="1499061626138">
+        <mark key="[" line="22" column="40" />
+        <mark key="]" line="22" column="40" />
+        <mark key="." line="22" column="40" />
+        <mark key="^" line="22" column="44" />
+      </file>
       <file name="$USER_HOME$/ws/kotlin2/src/app.kt" timestamp="1498805656611">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -105,12 +111,6 @@
       </file>
       <file name="/ClojureDebugFile.clj" timestamp="1498811405083">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/ws/kotlin-tennis-kata/src/test/kotlin/tenniskata/tests.kt" timestamp="1498977906990">
-        <mark key="'" line="4" column="17" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/ws/sitepodkt/src/model/Resource.kt" timestamp="1499058859988">
         <mark key="'" line="3" column="15" />
@@ -156,12 +156,6 @@
         <mark key="]" line="24" column="24" />
         <mark key="." line="24" column="24" />
       </file>
-      <file name="$USER_HOME$/ws/kotlin2/test/AppSpek.kt" timestamp="1498805649250">
-        <mark key="'" line="9" column="22" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="34" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/ws/bdcbackend/source/magento.js" timestamp="1498890912025">
         <mark key="'" line="165" column="0" />
         <mark key="[" line="126" column="25" />
@@ -187,12 +181,6 @@
         <mark key="]" line="5" column="30" />
         <mark key="^" line="5" column="20" />
         <mark key="." line="5" column="30" />
-      </file>
-      <file name="$USER_HOME$/ws/sitepod/src/sitepod/core.clj" timestamp="1498965441203">
-        <mark key="'" line="4" column="2" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/ws/sitepodkt/src/App.kt" timestamp="1499059035416">
         <mark key="[" line="11" column="0" />
@@ -264,6 +252,11 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
+      <file name="$USER_HOME$/ws/sitepodkt/src/sitepod/model/Resources.kt" timestamp="1499060425492">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="8" />
+        <mark key="." line="11" column="8" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.clj" timestamp="1498969075933">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="11" />
@@ -334,12 +327,6 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0e42177b-967b-4e8f-8101-f1d0c603018f/console.sql" timestamp="1498894030158">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/bdcbackend/tasks/normalize_products.js" timestamp="1498891872793">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/ws/sitepodkt/src/model/Resources.kt" timestamp="1499058902207">
         <mark key="[" line="2" column="74" />
         <mark key="]" line="3" column="0" />
@@ -377,13 +364,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>if (this.started) false else run {
-            this.started = true
-            true
-        }</text>
+        <text encoding="base64">VGhlbiA=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dGhlbiA=</text>
+        <text encoding="base64">VGhlbiA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGFzc1w+</text>
@@ -395,31 +379,31 @@
         }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ampkZGQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">YWZ0ZXIgdW5yZWdpc3RlcmluZyBpdHNlbGYuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">QSBjb250cm9sbGVyIHN0b3AgaW5mb3JtZXJzIG9ubHkgaWYgaXQgaXMgdGhlIG9ubHkgY2xpZW50Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">LyogICAgcHJpbnRsbigiJHthbHRTaXRlcG9kMS5uYW1lfSBpcyAke2FsdFNpdGVwb2QxLmNvbmRpdGlvbnNbMF0uc3RhdHVzfSIpKi8K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ki8K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGlzdE9mKFNpdGVwb2RDb25kaXRpb24uUHJvdmlzaW9uZWQoQ29uZGl0aW9uU3RhdHVzLkZhbHNlKSkK</text>
+        <text encoding="base64">LyogICAgcHJpbnRsbigiJHthbHRTaXRlcG9kMS5uYW1lfSBpcyAke2FsdFNpdGVwb2QxLmNvbmRpdGlvbnNbMF0uc3RhdHVzfSIpKi8K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
