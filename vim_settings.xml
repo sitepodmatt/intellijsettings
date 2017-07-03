@@ -23,11 +23,11 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/sitepodkt/src/sitepod/client/Informer.kt" timestamp="1499060642484">
-        <mark key="[" line="4" column="39" />
-        <mark key="]" line="4" column="41" />
-        <mark key="^" line="4" column="41" />
-        <mark key="." line="4" column="41" />
+      <file name="$USER_HOME$/ws/sitepodkt/src/sitepod/client/Informer.kt" timestamp="1499065842099">
+        <mark key="[" line="26" column="9" />
+        <mark key="]" line="28" column="35" />
+        <mark key="^" line="28" column="35" />
+        <mark key="." line="28" column="35" />
       </file>
       <file name="$USER_HOME$/ws/sitepodkt/src/domain/Kind.kt" timestamp="1499058644090">
         <mark key="[" line="2" column="0" />
@@ -124,6 +124,12 @@
         <mark key="]" line="11" column="16" />
         <mark key="." line="11" column="16" />
         <mark key="^" line="11" column="16" />
+      </file>
+      <file name="$USER_HOME$/ws/sitepodkt/src/sitepod/client/Transport.kt" timestamp="1499065979377">
+        <mark key="[" line="3" column="16" />
+        <mark key="]" line="3" column="16" />
+        <mark key="^" line="3" column="20" />
+        <mark key="." line="3" column="16" />
       </file>
       <file name="$USER_HOME$/ws/spcont/project.clj" timestamp="1498969760774">
         <mark key="[" line="5" column="46" />
@@ -364,46 +370,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">VGhlbiA=</text>
+        <text encoding="base64">bmFtZSA=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">VGhlbiA=</text>
+        <text encoding="base64">bmFtZSA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGFzc1w+</text>
       </register>
-      <register name="0" type="4">
-        <text>if (this.started) false else run {
-            this.started = true
-            true
-        }</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGZ1biA8VD4gR2V0KG5hbWUgOiBTdHJpbmcpIDogVD8K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ampkZGQK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YWZ0ZXIgdW5yZWdpc3RlcmluZyBpdHNlbGYuCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QSBjb250cm9sbGVyIHN0b3AgaW5mb3JtZXJzIG9ubHkgaWYgaXQgaXMgdGhlIG9ubHkgY2xpZW50Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuICBNdXRhYmxlTGlzdCgpOiBNdXRhYmxlTGlzdDxUPiB7fQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIG8K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">LyogICAgcHJpbnRsbigiJHthbHRTaXRlcG9kMS5uYW1lfSBpcyAke2FsdFNpdGVwb2QxLmNvbmRpdGlvbnNbMF0uc3RhdHVzfSIpKi8K</text>
+        <text encoding="base64">ICAgIG8K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
