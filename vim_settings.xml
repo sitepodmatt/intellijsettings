@@ -23,11 +23,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/sitepodkt/src/sitepod/client/Informer.kt" timestamp="1499147813074">
-        <mark key="[" line="6" column="53" />
-        <mark key="]" line="6" column="54" />
-        <mark key="^" line="6" column="54" />
-        <mark key="." line="6" column="54" />
+      <file name="$USER_HOME$/ws/sitepodkt/src/sitepod/client/Informer.kt" timestamp="1499149797426">
+        <mark key="'" line="31" column="56" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="33" column="27" />
+        <mark key="^" line="33" column="27" />
+        <mark key="." line="33" column="27" />
       </file>
       <file name="$USER_HOME$/ws/sitepodkt/src/domain/Kind.kt" timestamp="1499058644090">
         <mark key="[" line="2" column="0" />
@@ -188,10 +189,11 @@
         <mark key="^" line="5" column="20" />
         <mark key="." line="5" column="30" />
       </file>
-      <file name="$USER_HOME$/ws/sitepodkt/src/App.kt" timestamp="1499059035416">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/ws/sitepodkt/src/App.kt" timestamp="1499150118702">
+        <mark key="[" line="17" column="94" />
+        <mark key="]" line="18" column="11" />
+        <mark key="." line="18" column="11" />
+        <mark key="^" line="18" column="11" />
       </file>
       <file name="$USER_HOME$/ws/mtest3/src/mtest3/core.clj" timestamp="1498811368925">
         <mark key="[" line="7" column="31" />
@@ -368,13 +370,14 @@
       <jump line="2" column="2" filename="/File Header.txt.ft" />
       <jump line="3" column="15" filename="$USER_HOME$/ws/sitepodkt/src/model/Resource.kt" />
       <jump line="6" column="9" filename="$USER_HOME$/ws/sitepodkt/src/sitepod/client/Transport.kt" />
+      <jump line="28" column="56" filename="$USER_HOME$/ws/sitepodkt/src/sitepod/client/Informer.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Int = 1</text>
+        <text>, null)</text>
       </register>
       <register name="-" type="4">
-        <text>Int = 1</text>
+        <text>, null)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGFzc1w+</text>
@@ -383,31 +386,31 @@
         <text encoding="base64">ICAgIGZ1biA8VD4gR2V0KG5hbWUgOiBTdHJpbmcpIDogVD8K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW50ZWZhY2UgSUNsaWVudDw+Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFyICBzdG9wcGVkOiBCb29sZWFuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZ1biBnZXQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoIXRoaXMuc3RvcHBlZCkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFyICB0aW1lcjogVGltZXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -437,9 +440,9 @@
         <entry>W</entry>
         <entry>bd</entry>
         <entry>e package.json</entry>
-        <entry>sp</entry>
         <entry>e THOUGHTS.md</entry>
         <entry>new THOUGHTS.md</entry>
+        <entry>sp</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
