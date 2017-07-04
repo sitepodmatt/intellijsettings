@@ -126,11 +126,12 @@
         <mark key="." line="11" column="16" />
         <mark key="^" line="11" column="16" />
       </file>
-      <file name="$USER_HOME$/ws/sitepodkt/src/sitepod/client/Transport.kt" timestamp="1499151585626">
+      <file name="$USER_HOME$/ws/sitepodkt/src/sitepod/client/Transport.kt" timestamp="1499152713049">
         <mark key="'" line="6" column="9" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+        <mark key="[" line="25" column="4" />
+        <mark key="]" line="31" column="5" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="24" column="3" />
       </file>
       <file name="$USER_HOME$/ws/spcont/project.clj" timestamp="1498969760774">
         <mark key="[" line="5" column="46" />
@@ -373,7 +374,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biA8VCA6IFJlc291cmNlPiBnZXQoa2luZDogS2luZCwgbmFtZTogU3RyaW5nKTogVD8gewogICAgICAgIHJldHVybiBudWxsCiAgICB9CgogICAgb3ZlcnJpZGUgZnVuIDxUIDogUmVzb3VyY2U+IGxpc3Qoa2luZDogS2luZCk6IExpc3Q8VD4gewogICAgICAgIHJldHVybiBsaXN0T2YoKQogICAgfQo=</text>
       </register>
       <register name="-" type="4">
         <text>?</text>
@@ -412,7 +413,7 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -434,7 +435,6 @@
       <history-cmd>
         <entry>/sMe</entry>
         <entry>pwd</entry>
-        <entry>wa</entry>
         <entry>:w</entry>
         <entry>W</entry>
         <entry>bd</entry>
@@ -443,6 +443,7 @@
         <entry>new THOUGHTS.md</entry>
         <entry>sp</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
