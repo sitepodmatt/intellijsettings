@@ -110,6 +110,13 @@
       <file name="/fragment.kt" timestamp="1498973661872">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/ws/foldwhile/src/App.kt" timestamp="1499179885465">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="16" column="12" />
+        <mark key="]" line="16" column="12" />
+        <mark key="^" line="9" column="82" />
+        <mark key="." line="16" column="12" />
+      </file>
       <file name="/ClojureDebugFile.clj" timestamp="1498811405083">
         <mark key="[" line="0" column="0" />
       </file>
@@ -373,46 +380,48 @@
       <jump line="28" column="56" filename="$USER_HOME$/ws/sitepodkt/src/sitepod/client/Informer.kt" />
       <jump line="25" column="52" filename="$USER_HOME$/ws/sitepodkt/src/sitepod/client/Transport.kt" />
       <jump line="23" column="0" filename="$USER_HOME$/ws/sitepodkt/src/sitepod/client/Transport.kt" />
+      <jump line="0" column="12" filename="$USER_HOME$/ws/foldwhile/src/App.kt" />
+      <jump line="21" column="0" filename="$USER_HOME$/ws/foldwhile/src/App.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Integer</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="-" type="4">
-        <text>Integer</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGFzc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwga2luZFN0b3JlID0gc3RvcmVba2luZF0gPzogbXV0YWJsZUxpc3RPZjxSZXNvdXJjZT4oKS5hcHBseSB7IHN0b3JlLnB1dChraW5kLHRoaXMpIH0K</text>
+        <text encoding="base64">ICAgIG9uZVRvMTAwLmZvbGRXaGlsZSgwLCB7IGFjYywgdiAtPiBhY2MgKyB2IH0sIHsgYWNjLCB2IC0+IHRydWUgfSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIG9uZVRvMTAwLmZvbGRXaGlsZSgwLCB7IGFjYywgdiAtPiBhY2MgKyB2IH0sIHsgYWNjLCB2IC0+IHRydWUgfSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBraW5kU3RvcmUuZmlsdGVyIHsgaXQubmFtZSA9PSByZXNvdXJjZS5uYW1lfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBraW5kU3RvcmUuZmlyc3QK</text>
+        <text encoding="base64">ICAgICAgICBwcmVkaWNhdGUoYWNjLHYpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBraW5kU3RvcmUK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
