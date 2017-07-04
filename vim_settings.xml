@@ -23,11 +23,11 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/sitepodkt/src/sitepod/client/Informer.kt" timestamp="1499065842099">
-        <mark key="[" line="26" column="9" />
-        <mark key="]" line="28" column="35" />
-        <mark key="^" line="28" column="35" />
-        <mark key="." line="28" column="35" />
+      <file name="$USER_HOME$/ws/sitepodkt/src/sitepod/client/Informer.kt" timestamp="1499147813074">
+        <mark key="[" line="6" column="53" />
+        <mark key="]" line="6" column="54" />
+        <mark key="^" line="6" column="54" />
+        <mark key="." line="6" column="54" />
       </file>
       <file name="$USER_HOME$/ws/sitepodkt/src/domain/Kind.kt" timestamp="1499058644090">
         <mark key="[" line="2" column="0" />
@@ -125,12 +125,11 @@
         <mark key="." line="11" column="16" />
         <mark key="^" line="11" column="16" />
       </file>
-      <file name="$USER_HOME$/ws/sitepodkt/src/sitepod/client/Transport.kt" timestamp="1499068176307">
+      <file name="$USER_HOME$/ws/sitepodkt/src/sitepod/client/Transport.kt" timestamp="1499147803381">
         <mark key="'" line="6" column="9" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="29" column="0" />
+        <mark key="[" line="23" column="6" />
+        <mark key="]" line="23" column="6" />
+        <mark key="." line="23" column="6" />
       </file>
       <file name="$USER_HOME$/ws/spcont/project.clj" timestamp="1498969760774">
         <mark key="[" line="5" column="46" />
@@ -259,7 +258,7 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/sitepodkt/src/sitepod/model/Resources.kt" timestamp="1499060425492">
+      <file name="$USER_HOME$/ws/sitepodkt/src/sitepod/model/Resources.kt" timestamp="1499147453304">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="8" />
         <mark key="." line="11" column="8" />
@@ -372,10 +371,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>x</text>
+        <text>Int = 1</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>Int = 1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGFzc1w+</text>
@@ -384,31 +383,31 @@
         <text encoding="base64">ICAgIGZ1biA8VD4gR2V0KG5hbWUgOiBTdHJpbmcpIDogVD8K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW50ZWZhY2UgSUNsaWVudDw+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="8">
-        <text encoding="base64">PFQ+IAo8VD4g</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcuCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2VhbGVkIGNsYXNzIEluZm9ybWVycyAK</text>
+        <text encoding="base64">ICAgIGZ1biBnZXQoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c2VhbGVkIGNsYXNzIEluZm9ybWVycyB7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
