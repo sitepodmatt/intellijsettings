@@ -126,11 +126,11 @@
         <mark key="." line="11" column="16" />
         <mark key="^" line="11" column="16" />
       </file>
-      <file name="$USER_HOME$/ws/sitepodkt/src/sitepod/client/Transport.kt" timestamp="1499147803381">
+      <file name="$USER_HOME$/ws/sitepodkt/src/sitepod/client/Transport.kt" timestamp="1499151585626">
         <mark key="'" line="6" column="9" />
-        <mark key="[" line="23" column="6" />
-        <mark key="]" line="23" column="6" />
-        <mark key="." line="23" column="6" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/ws/spcont/project.clj" timestamp="1498969760774">
         <mark key="[" line="5" column="46" />
@@ -189,11 +189,10 @@
         <mark key="^" line="5" column="20" />
         <mark key="." line="5" column="30" />
       </file>
-      <file name="$USER_HOME$/ws/sitepodkt/src/App.kt" timestamp="1499150118702">
-        <mark key="[" line="17" column="94" />
-        <mark key="]" line="18" column="11" />
-        <mark key="." line="18" column="11" />
-        <mark key="^" line="18" column="11" />
+      <file name="$USER_HOME$/ws/sitepodkt/src/App.kt" timestamp="1499151438698">
+        <mark key="[" line="7" column="29" />
+        <mark key="]" line="7" column="29" />
+        <mark key="." line="7" column="29" />
       </file>
       <file name="$USER_HOME$/ws/mtest3/src/mtest3/core.clj" timestamp="1498811368925">
         <mark key="[" line="7" column="31" />
@@ -373,44 +372,44 @@
       <jump line="28" column="56" filename="$USER_HOME$/ws/sitepodkt/src/sitepod/client/Informer.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, null)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>, null)</text>
+        <text>?</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGFzc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZ1biA8VD4gR2V0KG5hbWUgOiBTdHJpbmcpIDogVD8K</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biA8VCA6IFJlc291cmNlPiBnZXQoa2luZDogS2luZCwgbmFtZTogU3RyaW5nKTogVD8gewogICAgICAgIHJldHVybiBudWxsCiAgICB9CgogICAgb3ZlcnJpZGUgZnVuIDxUIDogUmVzb3VyY2U+IGxpc3Qoa2luZDogS2luZCk6IExpc3Q8VD4gewogICAgICAgIHJldHVybiBsaXN0T2YoKQogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFyICBzdG9wcGVkOiBCb29sZWFuCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKCJYIiArIFQ6OmNsYXNzKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHJldHVybgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHJldHVybgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoIXRoaXMuc3RvcHBlZCkgewo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFyICB0aW1lcjogVGltZXIK</text>
+        <text encoding="base64">ICAgIHZhbCB4IDogKCkgLT4gVD8gPSA8VD57Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
