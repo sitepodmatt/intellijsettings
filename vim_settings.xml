@@ -126,12 +126,12 @@
         <mark key="." line="11" column="16" />
         <mark key="^" line="11" column="16" />
       </file>
-      <file name="$USER_HOME$/ws/sitepodkt/src/sitepod/client/Transport.kt" timestamp="1499153871649">
-        <mark key="'" line="6" column="9" />
-        <mark key="[" line="36" column="34" />
-        <mark key="]" line="36" column="34" />
-        <mark key="." line="36" column="34" />
-        <mark key="^" line="36" column="34" />
+      <file name="$USER_HOME$/ws/sitepodkt/src/sitepod/client/Transport.kt" timestamp="1499156389250">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="33" column="95" />
+        <mark key="]" line="7" column="48" />
+        <mark key="." line="7" column="48" />
+        <mark key="^" line="7" column="48" />
       </file>
       <file name="$USER_HOME$/ws/spcont/project.clj" timestamp="1498969760774">
         <mark key="[" line="5" column="46" />
@@ -225,7 +225,7 @@
         <mark key="^" line="0" column="2" />
         <mark key="." line="0" column="30" />
       </file>
-      <file name="$USER_HOME$/ws/paidsetup/test/paidsetup/core_test.clj" timestamp="1499009068688">
+      <file name="$USER_HOME$/ws/paidsetup/test/paidsetup/core_test.clj" timestamp="1499157022952">
         <mark key="'" line="14" column="10" />
         <mark key="[" line="11" column="106" />
         <mark key="]" line="11" column="106" />
@@ -371,49 +371,51 @@
       <jump line="3" column="15" filename="$USER_HOME$/ws/sitepodkt/src/model/Resource.kt" />
       <jump line="6" column="9" filename="$USER_HOME$/ws/sitepodkt/src/sitepod/client/Transport.kt" />
       <jump line="28" column="56" filename="$USER_HOME$/ws/sitepodkt/src/sitepod/client/Informer.kt" />
+      <jump line="25" column="52" filename="$USER_HOME$/ws/sitepodkt/src/sitepod/client/Transport.kt" />
+      <jump line="23" column="0" filename="$USER_HOME$/ws/sitepodkt/src/sitepod/client/Transport.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>result</text>
+        <text>put</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGFzc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biA8VCA6IFJlc291cmNlPiBnZXQoa2luZDogS2luZCwgbmFtZTogU3RyaW5nKTogVD8gewogICAgICAgIHJldHVybiBudWxsCiAgICB9CgogICAgb3ZlcnJpZGUgZnVuIDxUIDogUmVzb3VyY2U+IGxpc3Qoa2luZDogS2luZCk6IExpc3Q8VD4gewogICAgICAgIHJldHVybiBsaXN0T2YoKQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwga2luZFN0b3JlID0gc3RvcmVba2luZF0gPzogbXV0YWJsZUxpc3RPZjxSZXNvdXJjZT4oKS5hcHBseSB7IHN0b3JlLnB1dChraW5kLHRoaXMpIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKCJYIiArIFQ6OmNsYXNzKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybgo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBraW5kU3RvcmUK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbAo=</text>
+        <text encoding="base64">ICAgICAgICB9IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCB4IDogKCkgLT4gVD8gPSA8VD57Cg==</text>
+        <text encoding="base64">ICAgICAgICBraW5kU3RvcmUuCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -442,8 +444,8 @@
         <entry>e THOUGHTS.md</entry>
         <entry>new THOUGHTS.md</entry>
         <entry>sp</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
