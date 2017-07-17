@@ -220,12 +220,12 @@
         <mark key="." line="21" column="3" />
         <mark key="^" line="21" column="3" />
       </file>
-      <file name="$USER_HOME$/ws/sitepodkt/src/sitepod/client/controllers/Sitepod.kt" timestamp="1500292319517">
-        <mark key="'" line="43" column="29" />
-        <mark key="[" line="29" column="41" />
-        <mark key="]" line="29" column="52" />
-        <mark key="^" line="29" column="52" />
-        <mark key="." line="29" column="52" />
+      <file name="$USER_HOME$/ws/sitepodkt/src/sitepod/client/controllers/Sitepod.kt" timestamp="1500320255523">
+        <mark key="'" line="44" column="29" />
+        <mark key="[" line="27" column="34" />
+        <mark key="]" line="27" column="45" />
+        <mark key="^" line="27" column="45" />
+        <mark key="." line="27" column="45" />
       </file>
       <file name="$USER_HOME$/ws/sitepodclj/src/sitepodclj/config.clj" timestamp="1495443791567">
         <mark key="[" line="0" column="2" />
@@ -432,7 +432,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>())</text>
       </register>
       <register name="/" type="4">
         <text>launch</text>
@@ -444,28 +444,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhciBzdGFydGVkID0gZmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bgo=</text>
+        <text encoding="base64">ICAgIHZhciBzdGFydGVkID0gZmFsc2UK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
+        <text encoding="base64">bgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
