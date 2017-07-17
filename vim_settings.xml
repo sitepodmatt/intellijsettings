@@ -214,10 +214,17 @@
         <mark key="." line="8" column="4" />
         <mark key="^" line="8" column="4" />
       </file>
-      <file name="$USER_HOME$/ws/sitepodkt/src/sitepod/app.kt" timestamp="1499676582047">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/ws/sitepodkt/src/sitepod/app.kt" timestamp="1500289209969">
+        <mark key="[" line="20" column="36" />
+        <mark key="]" line="21" column="3" />
+        <mark key="." line="21" column="3" />
+        <mark key="^" line="21" column="3" />
+      </file>
+      <file name="$USER_HOME$/ws/sitepodkt/src/sitepod/client/controllers/Sitepod.kt" timestamp="1500289405456">
+        <mark key="[" line="18" column="8" />
+        <mark key="]" line="18" column="8" />
+        <mark key="." line="18" column="8" />
+        <mark key="^" line="14" column="15" />
       </file>
       <file name="$USER_HOME$/ws/sitepodclj/src/sitepodclj/config.clj" timestamp="1495443791567">
         <mark key="[" line="0" column="2" />
@@ -414,44 +421,44 @@
       <jump line="15" column="0" filename="$USER_HOME$/ws/sitepodkt/src/sitepod/client/Transport.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBqb2IuCg==</text>
+      <register name="&quot;" type="4">
+        <text>onUpdate</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>onUpdate</text>
       </register>
       <register name="/" type="4">
         <text>launch</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbigiWCIpCg==</text>
+        <text encoding="base64">ICAgIGZ1biBvblVwZGF0ZShmbiA6IChUKSAtPiAoKSkgewogICAgICAgIAogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBqb2IuCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXN5bmMoQ29tbW9uUG9vbCkgewogICAgICAgICAgICAgICAgZGVsYXkoMTIwMCkKICAgICAgICAgICAgICAgIHJlc3VsdENoYW5uZWwuY2xvc2UoKQogICAgICAgICAgICAgICAgcHJpbnRsbigiQ0xTT0VEIENIQU5ORWwiKQogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBzaXRlcG9kSW5mb3JtZXIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKGNoYW5uZWwuKQo=</text>
+        <text encoding="base64">ICAgICAgICBqb2IuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXN5bmMoQ29tbW9uUG9vbCkgewogICAgICAgICAgICAgICAgZGVsYXkoMTIwMCkKICAgICAgICAgICAgICAgIHJlc3VsdENoYW5uZWwuY2xvc2UoKQogICAgICAgICAgICAgICAgcHJpbnRsbigiQ0xTT0VEIENIQU5ORWwiKQogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKGNoYW5uZWwuKQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXN5bmMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGlzdGVuZXIub2ZmCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50bG4oIkhFUkUiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXN5bmMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
