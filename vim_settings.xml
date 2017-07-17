@@ -220,12 +220,12 @@
         <mark key="." line="21" column="3" />
         <mark key="^" line="21" column="3" />
       </file>
-      <file name="$USER_HOME$/ws/sitepodkt/src/sitepod/client/controllers/Sitepod.kt" timestamp="1500291482409">
-        <mark key="'" line="0" column="33" />
-        <mark key="[" line="17" column="36" />
-        <mark key="]" line="17" column="36" />
-        <mark key="." line="17" column="36" />
-        <mark key="^" line="17" column="36" />
+      <file name="$USER_HOME$/ws/sitepodkt/src/sitepod/client/controllers/Sitepod.kt" timestamp="1500292319517">
+        <mark key="'" line="43" column="29" />
+        <mark key="[" line="29" column="41" />
+        <mark key="]" line="29" column="52" />
+        <mark key="^" line="29" column="52" />
+        <mark key="." line="29" column="52" />
       </file>
       <file name="$USER_HOME$/ws/sitepodclj/src/sitepodclj/config.clj" timestamp="1495443791567">
         <mark key="[" line="0" column="2" />
@@ -422,46 +422,50 @@
       <jump line="15" column="0" filename="$USER_HOME$/ws/sitepodkt/src/sitepod/client/Transport.kt" />
       <jump line="11" column="48" filename="$USER_HOME$/ws/sitepodkt/src/sitepod/client/controllers/Sitepod.kt" />
       <jump line="0" column="33" filename="$USER_HOME$/ws/sitepodkt/src/sitepod/client/controllers/Sitepod.kt" />
+      <jump line="19" column="29" filename="$USER_HOME$/ws/sitepodkt/src/sitepod/client/controllers/Sitepod.kt" />
+      <jump line="15" column="4" filename="$USER_HOME$/ws/sitepodkt/src/sitepod/client/controllers/Sitepod.kt" />
+      <jump line="40" column="29" filename="$USER_HOME$/ws/sitepodkt/src/sitepod/client/controllers/Sitepod.kt" />
+      <jump line="29" column="52" filename="$USER_HOME$/ws/sitepodkt/src/sitepod/client/controllers/Sitepod.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text>launch</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB1cGRhdGVIYW5kbGVycy5hZGQoZm4pCg==</text>
+        <text encoding="base64">ICAgICAgICBpbnN0YW5jZUxvY2sud2l0aExvY2sgewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHZhciBzdGFydGVkID0gZmFsc2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">bgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHcK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
