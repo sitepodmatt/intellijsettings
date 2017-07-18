@@ -158,7 +158,7 @@
         <mark key="." line="16" column="38" />
         <mark key="^" line="16" column="38" />
       </file>
-      <file name="$USER_HOME$/spek-gradle-sample/build.gradle" timestamp="1500389360726">
+      <file name="$USER_HOME$/spek-gradle-sample/build.gradle" timestamp="1500390346036">
         <mark key="[" line="41" column="67" />
         <mark key="]" line="41" column="68" />
         <mark key="^" line="4" column="32" />
@@ -374,10 +374,10 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0e42177b-967b-4e8f-8101-f1d0c603018f/console.sql" timestamp="1498894030158">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/spek-gradle-sample/src/test/kotlin/SampleSpec.kt" timestamp="1500369807204">
-        <mark key="[" line="10" column="29" />
-        <mark key="]" line="10" column="30" />
-        <mark key="." line="10" column="30" />
+      <file name="$USER_HOME$/spek-gradle-sample/src/test/kotlin/SampleSpec.kt" timestamp="1500390694414">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="27" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/ws/sitepodkt/src/model/Resources.kt" timestamp="1499058902207">
         <mark key="[" line="2" column="74" />
@@ -459,7 +459,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50bG4oIkhFUkUiKQo=</text>
       </register>
       <register name="-" type="4">
         <text>testRuntime</text>
@@ -471,19 +471,19 @@
         <text encoding="base64">ICAgIHRlc3RSdW50aW1lICdvcmcuamV0YnJhaW5zLnNwZWs6c3Blay1qdW5pdC1wbGF0Zm9ybS1lbmdpbmU6MS4xLjInCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50bG4oIkhFUkUiKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRlc3RDb21waWxlICdvcmcuanVuaXQucGxhdGZvcm06anVuaXQtcGxhdGZvcm0tY29uc29sZToxLjAuMC1NNCcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ29yZy5qZXRicmFpbnMuc3BlazpzcGVrLWFwaToxLjEuMicKICAgIGNvbXBpbGUgJ29yZy5qZXRicmFpbnMuc3BlazpzcGVrLWp1bml0LXBsYXRmb3JtLWVuZ2luZToxLjEuMicK</text>
+        <text encoding="base64">ICAgIHRlc3RDb21waWxlICdvcmcuanVuaXQucGxhdGZvcm06anVuaXQtcGxhdGZvcm0tY29uc29sZToxLjAuMC1NNCcK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1haW4ua290bGluLnRlc3REaXJzICs9ICd0ZXN0LycK</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ29yZy5qZXRicmFpbnMuc3BlazpzcGVrLWFwaToxLjEuMicKICAgIGNvbXBpbGUgJ29yZy5qZXRicmFpbnMuc3BlazpzcGVrLWp1bml0LXBsYXRmb3JtLWVuZ2luZToxLjEuMicK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1haW4ua290bGluLnRlc3REaXJzICs9ICd0ZXN0LycK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
