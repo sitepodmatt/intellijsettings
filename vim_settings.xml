@@ -158,6 +158,12 @@
         <mark key="." line="16" column="38" />
         <mark key="^" line="16" column="38" />
       </file>
+      <file name="$USER_HOME$/spek-gradle-sample/build.gradle" timestamp="1500389360726">
+        <mark key="[" line="41" column="67" />
+        <mark key="]" line="41" column="68" />
+        <mark key="^" line="4" column="32" />
+        <mark key="." line="41" column="68" />
+      </file>
       <file name="/Dummy.clj" timestamp="1498899731315">
         <mark key="[" line="0" column="0" />
       </file>
