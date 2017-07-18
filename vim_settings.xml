@@ -248,11 +248,11 @@
       <file name="/a.sql" timestamp="1498894016568">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/sitepodkt/build.gradle" timestamp="1500391110802">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="^" line="14" column="18" />
-        <mark key="." line="59" column="0" />
+      <file name="$USER_HOME$/ws/sitepodkt/build.gradle" timestamp="1500396503967">
+        <mark key="[" line="58" column="4" />
+        <mark key="]" line="58" column="10" />
+        <mark key="^" line="58" column="10" />
+        <mark key="." line="58" column="10" />
       </file>
       <file name="/JavaScript Console" timestamp="1498891802637">
         <mark key="[" line="0" column="0" />
@@ -458,17 +458,17 @@
       <jump line="44" column="12" filename="$USER_HOME$/ws/sitepodkt/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ29yZy5qZXRicmFpbnMuc3BlazpzcGVrLWp1bml0LXBsYXRmb3JtLWVuZ2luZToxLjEuMicK</text>
+      <register name="&quot;" type="4">
+        <text>testCompile</text>
       </register>
       <register name="-" type="4">
-        <text>kotlin</text>
+        <text>testCompile</text>
       </register>
       <register name="/" type="4">
         <text>launch</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAna290bGluJwo=</text>
+        <text encoding="base64">ICAgIHRlc3RDb21waWxlICdvcmcuamV0YnJhaW5zLnNwZWs6c3Blay1hcGk6MS4xLjInCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGNvbXBpbGUgJ29yZy5qZXRicmFpbnMuc3BlazpzcGVrLWp1bml0LXBsYXRmb3JtLWVuZ2luZToxLjEuMicK</text>
