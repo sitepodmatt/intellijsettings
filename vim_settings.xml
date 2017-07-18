@@ -214,7 +214,7 @@
         <mark key="." line="8" column="4" />
         <mark key="^" line="8" column="4" />
       </file>
-      <file name="$USER_HOME$/ws/sitepodkt/src/sitepod/app.kt" timestamp="1500324816041">
+      <file name="$USER_HOME$/ws/sitepodkt/src/sitepod/app.kt" timestamp="1500361535656">
         <mark key="'" line="6" column="0" />
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="0" />
@@ -242,11 +242,12 @@
       <file name="/a.sql" timestamp="1498894016568">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/sitepodkt/build.gradle" timestamp="1500325035756">
-        <mark key="'" line="47" column="30" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/ws/sitepodkt/build.gradle" timestamp="1500361842827">
+        <mark key="'" line="45" column="12" />
+        <mark key="[" line="8" column="61" />
+        <mark key="]" line="8" column="65" />
+        <mark key="." line="8" column="65" />
+        <mark key="^" line="8" column="65" />
       </file>
       <file name="/JavaScript Console" timestamp="1498891802637">
         <mark key="[" line="0" column="0" />
@@ -430,14 +431,17 @@
       <jump line="8" column="19" filename="$USER_HOME$/ws/sitepodkt/build.gradle" />
       <jump line="0" column="0" filename="$USER_HOME$/ws/sitepodkt/build.gradle" />
       <jump line="3" column="0" filename="$USER_HOME$/ws/sitepodkt/src/sitepod/app.kt" />
-      <jump line="45" column="30" filename="$USER_HOME$/ws/sitepodkt/build.gradle" />
+      <jump line="16" column="0" filename="$USER_HOME$/ws/sitepodkt/build.gradle" />
+      <jump line="35" column="0" filename="$USER_HOME$/ws/sitepodkt/build.gradle" />
+      <jump line="20" column="0" filename="$USER_HOME$/ws/sitepodkt/build.gradle" />
+      <jump line="45" column="12" filename="$USER_HOME$/ws/sitepodkt/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>$kotlin_version</text>
       </register>
       <register name="-" type="4">
-        <text>testRuntime</text>
+        <text>$kotlin_version</text>
       </register>
       <register name="/" type="4">
         <text>launch</text>
@@ -446,39 +450,31 @@
         <text encoding="base64">ICAgIHRlc3RSdW50aW1lICdvcmcuamV0YnJhaW5zLnNwZWs6c3Blay1qdW5pdC1wbGF0Zm9ybS1lbmdpbmU6MS4xLjInCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBsYXRmb3JtVmVyc2lvbiBqdW5pdF9ydW5uZXJfdmVyc2lvbgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cGxhdGZvcm1WZXJzaW9uIGp1bml0X3J1bm5lcl92ZXJzaW9uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="8">
-        <text>//
-//
-//
-//
-//
-//
-//</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBleGNsdWRlIGdyb3VwOiAnb3JnLmpldGJyYWlucy5rb3RsaW4nCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>import org.jetbrains.spek.api.Spek
-import org.jetbrains.spek.api.dsl.given
-import org.jetbrains.spek.api.dsl.on</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBleGNsdWRlIGdyb3VwOiAnb3JnLmpldGJyYWlucy5rb3RsaW4nCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBleGNsdWRlIGdyb3VwOiAnb3JnLmp1bml0LnBsYXRmb3JtJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRlc3RDb21waWxlICdvcmcuamV0YnJhaW5zLnNwZWs6c3Blay1hcGk6MS4xLjInCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRlc3RSdW50aW1lICdvcmcuamV0YnJhaW5zLnNwZWs6c3Blay1qdW5pdC1wbGF0Zm9ybS1lbmdpbmU6MS4xLjInCg==</text>
+        <text encoding="base64">cGxhdGZvcm1WZXJzaW9uIGp1bml0X3J1bm5lcl92ZXJzaW9uCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
