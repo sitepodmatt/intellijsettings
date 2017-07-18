@@ -368,6 +368,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0e42177b-967b-4e8f-8101-f1d0c603018f/console.sql" timestamp="1498894030158">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/spek-gradle-sample/src/test/kotlin/SampleSpec.kt" timestamp="1500369807204">
+        <mark key="[" line="10" column="29" />
+        <mark key="]" line="10" column="30" />
+        <mark key="." line="10" column="30" />
+      </file>
       <file name="$USER_HOME$/ws/sitepodkt/src/model/Resources.kt" timestamp="1499058902207">
         <mark key="[" line="2" column="74" />
         <mark key="]" line="3" column="0" />
