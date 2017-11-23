@@ -144,6 +144,7 @@
         <mark key="[" line="65" column="46" />
         <mark key="]" line="64" column="13" />
         <mark key="." line="60" column="0" />
+        <mark key="^" line="38" column="77" />
       </file>
       <file name="$USER_HOME$/ws/spcont/project.clj" timestamp="1498969760774">
         <mark key="[" line="5" column="46" />
@@ -157,6 +158,12 @@
         <mark key="]" line="16" column="38" />
         <mark key="." line="16" column="38" />
         <mark key="^" line="16" column="38" />
+      </file>
+      <file name="$USER_HOME$/ws/playtest/src/main.kt" timestamp="1511408458234">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="1" />
+        <mark key="^" line="2" column="1" />
+        <mark key="." line="2" column="1" />
       </file>
       <file name="$USER_HOME$/spek-gradle-sample/build.gradle" timestamp="1500390346036">
         <mark key="[" line="41" column="67" />
@@ -202,6 +209,9 @@
         <mark key="^" line="15" column="44" />
         <mark key="." line="15" column="44" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0e42177b-967b-4e8f-8101-f1d0c603018f/console.sql" timestamp="1498894030158">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/ws/spcont/src/spcont/controller_host.clj" timestamp="1498971627398">
         <mark key="[" line="5" column="30" />
         <mark key="]" line="5" column="30" />
@@ -211,8 +221,8 @@
       <file name="$USER_HOME$/ws/sitepodkt/src/App.kt" timestamp="1499313988348">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
-        <mark key="^" line="17" column="0" />
         <mark key="." line="4" column="0" />
+        <mark key="^" line="17" column="0" />
       </file>
       <file name="$USER_HOME$/ws/mtest3/src/mtest3/core.clj" timestamp="1498811368925">
         <mark key="[" line="7" column="31" />
@@ -288,6 +298,13 @@
       <file name="/dummy.sql" timestamp="1498895220338">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.clj" timestamp="1498899844716">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="6" column="7" />
+        <mark key="]" line="6" column="7" />
+        <mark key="^" line="6" column="7" />
+        <mark key="." line="6" column="7" />
+      </file>
       <file name="/Dummy.txt" timestamp="1500289955846">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -302,12 +319,6 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="8" />
         <mark key="." line="11" column="8" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.clj" timestamp="1498969075933">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="3" column="11" />
-        <mark key="." line="2" column="3" />
-        <mark key="^" line="2" column="3" />
       </file>
       <file name="$USER_HOME$/ws/paidsetup/THOUGHTS.md" timestamp="1498916757302">
         <mark key="[" line="0" column="1" />
@@ -347,12 +358,11 @@
         <mark key="^" line="19" column="8" />
         <mark key="." line="19" column="9" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.clj" timestamp="1498899844716">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="6" column="7" />
-        <mark key="]" line="6" column="7" />
-        <mark key="^" line="6" column="7" />
-        <mark key="." line="6" column="7" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.clj" timestamp="1498969075933">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="11" />
+        <mark key="." line="2" column="3" />
+        <mark key="^" line="2" column="3" />
       </file>
       <file name="/Enum.txt.ft" timestamp="1499058538029">
         <mark key="[" line="0" column="0" />
@@ -370,9 +380,6 @@
         <mark key="." line="6" column="8" />
         <mark key="^" line="6" column="8" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0e42177b-967b-4e8f-8101-f1d0c603018f/console.sql" timestamp="1498894030158">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/spek-gradle-sample/src/test/kotlin/SampleSpec.kt" timestamp="1500390694414">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="27" />
@@ -384,7 +391,7 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1499058830286">
+      <file name="/fragment.java" timestamp="1511408427275">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JSRegexp Fragment (index.js:27).regexp" timestamp="1498915818564">
@@ -516,21 +523,18 @@
         <entry encoding="base64">XDxwcmludGxuXD4=</entry>
         <entry encoding="base64">XDxtZWdhbWVudVdvcmthcm91bmRcPg==</entry>
         <entry>lodash</entry>
-        <entry>kot</entry>
-        <entry>launch</entry>
       </history-search>
       <history-cmd>
         <entry>/sMe</entry>
+        <entry>pwd</entry>
         <entry>:w</entry>
+        <entry>W</entry>
         <entry>bd</entry>
         <entry>e package.json</entry>
         <entry>e THOUGHTS.md</entry>
         <entry>new THOUGHTS.md</entry>
         <entry>sp</entry>
         <entry>wa</entry>
-        <entry>W</entry>
-        <entry>e ~/build.gradle</entry>
-        <entry>pwd</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
