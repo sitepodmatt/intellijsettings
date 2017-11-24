@@ -78,11 +78,11 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="52" />
       </file>
-      <file name="$USER_HOME$/ws/ecommbackend/src/main.kt" timestamp="1511506352636">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="10" column="11" />
-        <mark key="^" line="10" column="11" />
-        <mark key="." line="10" column="11" />
+      <file name="$USER_HOME$/ws/ecommbackend/src/main.kt" timestamp="1511526631737">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="22" column="3" />
       </file>
       <file name="$USER_HOME$/ws/sitepodclj/src/sitepodclj/eg.clj" timestamp="1495445830739">
         <mark key="[" line="18" column="77" />
@@ -376,11 +376,11 @@
       <file name="/Class.txt.ft" timestamp="1499058537345">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/ecommbackend/src/models/product.kt" timestamp="1511506126360">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="24" column="0" />
+      <file name="$USER_HOME$/ws/ecommbackend/src/models/product.kt" timestamp="1511526604032">
+        <mark key="[" line="18" column="37" />
+        <mark key="]" line="18" column="43" />
+        <mark key="." line="18" column="43" />
+        <mark key="^" line="18" column="43" />
       </file>
       <file name="module.js" timestamp="1497522488238">
         <mark key="[" line="0" column="0" />
@@ -477,44 +477,44 @@
       <jump line="44" column="12" filename="$USER_HOME$/ws/sitepodkt/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">dmFsIHBhcmNlbCA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmFsIHBhcmNlbCA=</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>launch</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRlc3RDb21waWxlICdvcmcuamV0YnJhaW5zLnNwZWs6c3Blay1hcGk6MS4xLjInCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHZhbCBjb250YWN0TmFtZSA6IFN0cmluZywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCB0c2hpcnQxID0gUHJvZHVjdCgxLCJUU0hJUlQxIiwiVC1zaGlydCBpbiBibHVlIikK</text>
+        <text encoding="base64">ICAgIAogICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4odHNoaXJ0MSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBPcmRlckJ1aWxkZXIgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCB0c2hpcnQxID0gUHJvZHVjdCgxLCJUU0hJUlQxIiwiVC1zaGlydCBpbiBibHVlIikK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2xhc3MgCg==</text>
+        <text encoding="base64">ICAgIHN0YXRlID0gIkNoZXNoaXJlIiwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dmFsICkK</text>
+        <text encoding="base64">ICAgIHN0YXRlID0gIkNoZXNoaXJlIiwsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ29yZy5qZXRicmFpbnMuc3BlazpzcGVrLWp1bml0LXBsYXRmb3JtLWVuZ2luZToxLjEuMicK</text>
+        <text encoding="base64">ICAgIHN0YXRlID0gIkNoZXNoaXJlIiwsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ29yZy5qZXRicmFpbnMuc3BlazpzcGVrLWFwaToxLjEuMicK</text>
+        <text encoding="base64">ZnVuIEFkZHJlc3MoKTogQWRkcmVzcyB7fQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
